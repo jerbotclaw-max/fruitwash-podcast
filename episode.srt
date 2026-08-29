@@ -1,0 +1,824 @@
+1
+00:00:00,000 --> 00:00:06,000
+People keep asking what I've been working on, not a phone, not a car, something far more ambitious.
+
+2
+00:00:06,000 --> 00:00:07,000
+Water.
+
+3
+00:00:07,000 --> 00:00:09,000
+Steve, it is a sink.
+
+4
+00:00:09,000 --> 00:00:13,000
+It is a faucet bill, the most beautiful computer ever made.
+
+5
+00:00:13,000 --> 00:00:18,000
+One button, one interface, and it has never once shipped with a stylus.
+
+6
+00:00:18,000 --> 00:00:21,000
+I brought 47 studies about that sink.
+
+7
+00:00:21,000 --> 00:00:23,000
+Of course you did.
+
+8
+00:00:23,000 --> 00:00:29,000
+A scoping review, Frontiers and Environmental Health, April 2026.
+
+9
+00:00:29,000 --> 00:00:31,000
+47 studies.
+
+10
+00:00:31,000 --> 00:00:33,000
+23 fruits and vegetables.
+
+11
+00:00:33,000 --> 00:00:35,000
+79 pesticides.
+
+12
+00:00:35,000 --> 00:00:37,000
+1100 data points.
+
+13
+00:00:37,000 --> 00:00:41,000
+It is the study of studies I keep a copy by the pool.
+
+14
+00:00:41,000 --> 00:00:44,000
+You commissioned a meta-analysis of doing dishes.
+
+15
+00:00:44,000 --> 00:00:46,000
+And it is peer-reviewed.
+
+16
+00:00:46,000 --> 00:00:48,000
+Plain water works, Steve.
+
+17
+00:00:48,000 --> 00:00:51,000
+Medium reduction from a rinse, 30.2%.
+
+18
+00:00:51,000 --> 00:00:55,000
+A soak in plain water, 33.7%.
+
+19
+00:00:55,000 --> 00:00:58,000
+So the default app already does the job.
+
+20
+00:00:58,000 --> 00:01:01,000
+Imagine that, shipping something complete on day one.
+
+21
+00:01:01,000 --> 00:01:04,000
+The average person rinses for 41 seconds.
+
+22
+00:01:04,000 --> 00:01:07,000
+I timed myself, 47, optimal.
+
+23
+00:01:07,000 --> 00:01:09,000
+You timed your rinsing.
+
+24
+00:01:09,000 --> 00:01:12,000
+I have a foundation for that.
+
+25
+00:01:12,000 --> 00:01:14,000
+Now, soap.
+
+26
+00:01:14,000 --> 00:01:16,000
+People are putting dish soap on Apple's bill.
+
+27
+00:01:16,000 --> 00:01:18,000
+It hurts me physically.
+
+28
+00:01:18,000 --> 00:01:20,000
+The FDA is with you.
+
+29
+00:01:20,000 --> 00:01:23,000
+Soap detergent, commercial produce wash, not recommended.
+
+30
+00:01:23,000 --> 00:01:25,000
+Produce is porous.
+
+31
+00:01:25,000 --> 00:01:27,000
+The soap does not bounce off.
+
+32
+00:01:27,000 --> 00:01:29,000
+It moves in and stays for dinner.
+
+33
+00:01:29,000 --> 00:01:32,000
+People are marinating grapes in palm olive.
+
+34
+00:01:32,000 --> 00:01:35,000
+And paying for the privilege.
+
+35
+00:01:35,000 --> 00:01:38,000
+The FDA will not vouch for commercial produce washes either.
+
+36
+00:01:38,000 --> 00:01:43,000
+Effectiveness, untested, residue safety, unknown.
+
+37
+00:01:43,000 --> 00:01:45,000
+Finally, common ground.
+
+38
+00:01:45,000 --> 00:01:50,000
+A 999 bottle of glitter water with a celebrity chef's name on it.
+
+39
+00:01:50,000 --> 00:01:52,000
+A product nobody asked for.
+
+40
+00:01:52,000 --> 00:01:57,000
+A 2025 study found surfactants in those washes that are not approved for food.
+
+41
+00:01:57,000 --> 00:02:00,000
+I read the safety sheet for fun.
+
+42
+00:02:00,000 --> 00:02:04,000
+That is the most useful thing to ship out of Redmond in a decade.
+
+43
+00:02:04,000 --> 00:02:06,000
+It was a university, Steve.
+
+44
+00:02:06,000 --> 00:02:09,000
+Now the fun part, baking soda.
+
+45
+00:02:09,000 --> 00:02:10,000
+Baking who?
+
+46
+00:02:10,000 --> 00:02:11,000
+Never heard of it.
+
+47
+00:02:11,000 --> 00:02:12,000
+Next slide.
+
+48
+00:02:12,000 --> 00:02:15,000
+University of Massachusetts 2017.
+
+49
+00:02:15,000 --> 00:02:19,000
+One teaspoon of baking soda in two cups of water.
+
+50
+00:02:19,000 --> 00:02:21,000
+12 minutes of gentle scrubbing.
+
+51
+00:02:21,000 --> 00:02:23,000
+And thigh abendazole gone.
+
+52
+00:02:23,000 --> 00:02:25,000
+15 minutes for fosmit.
+
+53
+00:02:25,000 --> 00:02:28,000
+You are pronouncing pesticides from memory.
+
+54
+00:02:28,000 --> 00:02:30,000
+I have a foundation for that.
+
+55
+00:02:30,000 --> 00:02:32,000
+And it gets better.
+
+56
+00:02:32,000 --> 00:02:35,000
+Baking soda, beat plain water.
+
+57
+00:02:35,000 --> 00:02:37,000
+It beat the commercial washes.
+
+58
+00:02:37,000 --> 00:02:39,000
+It even beat the bleach.
+
+59
+00:02:39,000 --> 00:02:41,000
+Rinse the apple industry was using.
+
+60
+00:02:41,000 --> 00:02:43,000
+It is a powder.
+
+61
+00:02:43,000 --> 00:02:45,000
+Powders are so 1970s.
+
+62
+00:02:45,000 --> 00:02:47,000
+If it were insanely great,
+
+63
+00:02:47,000 --> 00:02:49,000
+I would have made it float.
+
+64
+00:02:49,000 --> 00:02:50,000
+There is a catch.
+
+65
+00:02:50,000 --> 00:02:52,000
+15 minutes.
+
+66
+00:02:52,000 --> 00:02:56,000
+And thigh abendazole that slipped inside the peel stays inside.
+
+67
+00:02:56,000 --> 00:02:58,000
+A soap treats the surface.
+
+68
+00:02:58,000 --> 00:03:00,000
+It is not a redesign.
+
+69
+00:03:00,000 --> 00:03:03,000
+Nothing valuable ever lived on the surface anyway.
+
+70
+00:03:03,000 --> 00:03:06,000
+And my favorite row of the spreadsheet.
+
+71
+00:03:06,000 --> 00:03:09,000
+Vinger had the best median in the whole review.
+
+72
+00:03:09,000 --> 00:03:11,000
+54.2%.
+
+73
+00:03:11,000 --> 00:03:13,000
+Best in study.
+
+74
+00:03:13,000 --> 00:03:17,000
+In exchange, your salad tastes like the inside of a fish and chips shop.
+
+75
+00:03:17,000 --> 00:03:20,000
+The literature calls that a flavor trade-off.
+
+76
+00:03:20,000 --> 00:03:22,000
+I call it 54%.
+
+77
+00:03:22,000 --> 00:03:24,000
+You know what else kills bacteria, Bill?
+
+78
+00:03:24,000 --> 00:03:26,000
+Licking the battery of a Macintosh.
+
+79
+00:03:26,000 --> 00:03:28,000
+Do not ship it.
+
+80
+00:03:28,000 --> 00:03:31,000
+Even the review admits most studies soak at concentrations.
+
+81
+00:03:31,000 --> 00:03:33,000
+No human kitchen has ever seen.
+
+82
+00:03:33,000 --> 00:03:36,000
+Real kitchens, humbler results.
+
+83
+00:03:36,000 --> 00:03:38,000
+Lab conditions.
+
+84
+00:03:38,000 --> 00:03:39,000
+Focus groups.
+
+85
+00:03:39,000 --> 00:03:41,000
+Numbers in a vacuum tube.
+
+86
+00:03:41,000 --> 00:03:43,000
+Then there are the gadgets.
+
+87
+00:03:43,000 --> 00:03:45,000
+Ultrasonic cleaners, ozone washers.
+
+88
+00:03:45,000 --> 00:03:49,000
+The FDA did approve ozone as an antimicrobial food additive.
+
+89
+00:03:49,000 --> 00:03:51,000
+June 2001.
+
+90
+00:03:51,000 --> 00:03:53,000
+2001.
+
+91
+00:03:53,000 --> 00:03:56,000
+The year the world got Mac OS X and the iPod,
+
+92
+00:03:56,000 --> 00:04:00,000
+and the government's big move was washing lettuce with smog.
+
+93
+00:04:00,000 --> 00:04:01,000
+It is not smog.
+
+94
+00:04:01,000 --> 00:04:03,000
+It is O3.
+
+95
+00:04:03,000 --> 00:04:05,000
+It is a machine with three buttons, Bill.
+
+96
+00:04:05,000 --> 00:04:08,000
+You of all people should be suspicious.
+
+97
+00:04:08,000 --> 00:04:10,000
+The ultrasonics show promise,
+
+98
+00:04:10,000 --> 00:04:12,000
+but the review would not crown them.
+
+99
+00:04:12,000 --> 00:04:14,000
+Saltwater did not make the finals either.
+
+100
+00:04:14,000 --> 00:04:15,000
+Not enough studies.
+
+101
+00:04:15,000 --> 00:04:17,000
+They did not get invited.
+
+102
+00:04:17,000 --> 00:04:19,000
+Even the meta-analysis has taste.
+
+103
+00:04:19,000 --> 00:04:22,000
+One more gadget with real chemistry.
+
+104
+00:04:22,000 --> 00:04:24,000
+Hypocloric acid.
+
+105
+00:04:24,000 --> 00:04:27,000
+The molecule your white blood cells deploy.
+
+106
+00:04:27,000 --> 00:04:30,000
+The food industry washes produce with it
+
+107
+00:04:30,000 --> 00:04:32,000
+50 to 200 parts per million.
+
+108
+00:04:32,000 --> 00:04:33,000
+No taste.
+
+109
+00:04:33,000 --> 00:04:36,000
+The FDA cleared it for fruits and vegetables.
+
+110
+00:04:36,000 --> 00:04:38,000
+Your immune system called.
+
+111
+00:04:38,000 --> 00:04:40,000
+It wants its chemistry back.
+
+112
+00:04:40,000 --> 00:04:42,000
+And someone shrank that into a pod.
+
+113
+00:04:42,000 --> 00:04:43,000
+The pure pod.
+
+114
+00:04:43,000 --> 00:04:47,000
+Salt, water, electricity, disinfectant on tap.
+
+115
+00:04:47,000 --> 00:04:48,000
+No refills.
+
+116
+00:04:48,000 --> 00:04:51,000
+It is a tiny factory, and I want one.
+
+117
+00:04:51,000 --> 00:04:52,000
+I read the website, Bill.
+
+118
+00:04:52,000 --> 00:04:53,000
+Drop it in.
+
+119
+00:04:53,000 --> 00:04:55,000
+Walk away 10 minutes and the water changes color.
+
+120
+00:04:55,000 --> 00:04:56,000
+That is the proof.
+
+121
+00:04:56,000 --> 00:04:57,000
+Proof is a color now.
+
+122
+00:04:57,000 --> 00:04:59,000
+That is my concern.
+
+123
+00:04:59,000 --> 00:05:02,000
+Hydroxyl radicals are real chemistry.
+
+124
+00:05:02,000 --> 00:05:04,000
+Water plants use them.
+
+125
+00:05:04,000 --> 00:05:08,000
+But you cannot verify the dose at home without test strips.
+
+126
+00:05:08,000 --> 00:05:09,000
+Unregulated.
+
+127
+00:05:09,000 --> 00:05:11,000
+That is not a spec.
+
+128
+00:05:11,000 --> 00:05:13,000
+That is a vibe.
+
+129
+00:05:13,000 --> 00:05:15,000
+Salt, water, electricity.
+
+130
+00:05:15,000 --> 00:05:18,000
+Three ingredients I would have shipped in 1997.
+
+131
+00:05:18,000 --> 00:05:21,000
+But a pod with no spec sheet is not a product.
+
+132
+00:05:21,000 --> 00:05:22,000
+It is a horoscope.
+
+133
+00:05:22,000 --> 00:05:23,000
+Technique matters.
+
+134
+00:05:23,000 --> 00:05:25,000
+You do not tap your phone with a hammer.
+
+135
+00:05:25,000 --> 00:05:26,000
+Cool water.
+
+136
+00:05:26,000 --> 00:05:27,000
+Real friction.
+
+137
+00:05:27,000 --> 00:05:28,000
+Rub the apple like you mean it.
+
+138
+00:05:28,000 --> 00:05:30,000
+Friction is the underrated one.
+
+139
+00:05:30,000 --> 00:05:34,000
+Rubbing under running water physically removes bacteria.
+
+140
+00:05:34,000 --> 00:05:36,000
+Then the step everyone skips.
+
+141
+00:05:36,000 --> 00:05:38,000
+Dry it with a clean towel.
+
+142
+00:05:38,000 --> 00:05:41,000
+The towel does real work.
+
+143
+00:05:41,000 --> 00:05:42,000
+The towel.
+
+144
+00:05:42,000 --> 00:05:44,000
+The mouse of the produce world.
+
+145
+00:05:44,000 --> 00:05:46,000
+Nobody thinks about it until it is missing.
+
+146
+00:05:46,000 --> 00:05:48,000
+And cold water.
+
+147
+00:05:48,000 --> 00:05:49,000
+Not warm.
+
+148
+00:05:49,000 --> 00:05:52,000
+Warm water is a participation trophy.
+
+149
+00:05:52,000 --> 00:05:55,000
+Leafy greens you pull the leaves apart and rinse them cold.
+
+150
+00:05:55,000 --> 00:05:56,000
+Lettuce is a conglomerate.
+
+151
+00:05:56,000 --> 00:05:58,000
+Unbundle the division.
+
+152
+00:05:58,000 --> 00:06:01,000
+Berries get rinsed right before eating.
+
+153
+00:06:01,000 --> 00:06:03,000
+Never pre-wash.
+
+154
+00:06:03,000 --> 00:06:05,000
+Water plus the fridge equals mold.
+
+155
+00:06:05,000 --> 00:06:08,000
+That one is in the actual guidance.
+
+156
+00:06:08,000 --> 00:06:10,000
+It is also in my fridge.
+
+157
+00:06:10,000 --> 00:06:11,000
+Watch out.
+
+158
+00:06:11,000 --> 00:06:13,000
+An apple is rolling toward your floor.
+
+159
+00:06:13,000 --> 00:06:15,000
+Five second rule.
+
+160
+00:06:15,000 --> 00:06:16,000
+Obviously.
+
+161
+00:06:16,000 --> 00:06:18,000
+Rutgers 2016.
+
+162
+00:06:18,000 --> 00:06:20,000
+Transfer is basically instant.
+
+163
+00:06:20,000 --> 00:06:22,000
+And wet food is the worst case.
+
+164
+00:06:22,000 --> 00:06:23,000
+Congratulations.
+
+165
+00:06:23,000 --> 00:06:26,000
+You just ate a floor nanosphere.
+
+166
+00:06:26,000 --> 00:06:28,000
+It was organic floor.
+
+167
+00:06:28,000 --> 00:06:30,000
+Last big one.
+
+168
+00:06:30,000 --> 00:06:33,000
+Peeling removes more residue than any wash.
+
+169
+00:06:33,000 --> 00:06:36,000
+But you also lose the fiber and the nutrients.
+
+170
+00:06:36,000 --> 00:06:38,000
+Classic gates remove the ports.
+
+171
+00:06:38,000 --> 00:06:39,000
+Remove the fiber.
+
+172
+00:06:39,000 --> 00:06:41,000
+That is your move Steve.
+
+173
+00:06:41,000 --> 00:06:44,000
+You removed the headphone jack and called it courage.
+
+174
+00:06:44,000 --> 00:06:46,000
+I called it focus.
+
+175
+00:06:46,000 --> 00:06:50,000
+So the verdict from the literature.
+
+176
+00:06:50,000 --> 00:06:52,000
+Cool running water.
+
+177
+00:06:52,000 --> 00:06:53,000
+Real friction.
+
+178
+00:06:53,000 --> 00:06:55,000
+Dry with a clean towel.
+
+179
+00:06:55,000 --> 00:06:57,000
+That is the daily driver.
+
+180
+00:06:57,000 --> 00:06:59,000
+Most of the value.
+
+181
+00:06:59,000 --> 00:07:01,000
+And one more thing.
+
+182
+00:07:01,000 --> 00:07:03,000
+For waxy heavily sprayed produce.
+
+183
+00:07:03,000 --> 00:07:06,000
+Apples, grapes, the dirty dozen crowd.
+
+184
+00:07:06,000 --> 00:07:10,000
+Baking soda soak 12 to 15 minutes than a final rinse.
+
+185
+00:07:10,000 --> 00:07:12,000
+Did you just say baking soda?
+
+186
+00:07:12,000 --> 00:07:14,000
+I said it exists.
+
+187
+00:07:14,000 --> 00:07:16,000
+In my kitchen it lives behind the cabinet.
+
+188
+00:07:16,000 --> 00:07:18,000
+It earns no shelf space.
+
+189
+00:07:18,000 --> 00:07:19,000
+But it stays.
+
+190
+00:07:19,000 --> 00:07:21,000
+And never soap.
+
+191
+00:07:21,000 --> 00:07:23,000
+Never the 999 wash.
+
+192
+00:07:23,000 --> 00:07:25,000
+Vinegar is optional.
+
+193
+00:07:25,000 --> 00:07:29,000
+If you like your strawberries with a side of chip shop.
+
+194
+00:07:29,000 --> 00:07:32,000
+The tap is the most beautiful computer ever made.
+
+195
+00:07:32,000 --> 00:07:34,000
+You just have to press the right button.
+
+196
+00:07:34,000 --> 00:07:37,000
+And the spreadsheet says we agree.
+
+197
+00:07:37,000 --> 00:07:40,000
+I have never been more unsettled.
+
+198
+00:07:40,000 --> 00:07:42,000
+Settle it the old way.
+
+199
+00:07:42,000 --> 00:07:44,000
+Rock paper.
+
+200
+00:07:44,000 --> 00:07:46,000
+47 studies Steve.
+
+201
+00:07:46,000 --> 00:07:48,000
+Rock loses to citation.
+
+202
+00:07:48,000 --> 00:07:49,000
+Good night everybody.
+
+203
+00:07:49,000 --> 00:07:50,000
+Wash your produce.
+
+204
+00:07:50,000 --> 00:07:51,000
+Friction is free.
+
+205
+00:07:51,000 --> 00:07:53,000
+And dry the great.
+
+206
+00:07:53,000 --> 00:07:55,000
+The towel is doing God's work.
+
