@@ -297,7 +297,7 @@ var TX=[
 ["00:07:53","The towel is doing God\'s work."]
 ];
 var tx=document.getElementById("tx"),au=document.getElementById("au"),lines=[];
-function t2s(t){var p=t.split(":");return +p[0]*60+ +p[1];}
+function t2s(t){var p=t.split(":");return p.length===3? +p[0]*3600+ +p[1]*60+ +p[2] : +p[0]*60+ +p[1];}
 TX.forEach(function(l){
  var d=document.createElement("div");d.style.margin="0 0 6px";d.style.cursor="pointer";d.dataset.t=t2s(l[0]);
  d.innerHTML='<span style="color:#5b6780;font-size:12px;font-variant-numeric:tabular-nums">'+l[0]+'</span> '+l[1];
