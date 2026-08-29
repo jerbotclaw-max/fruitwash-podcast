@@ -11,7 +11,7 @@ audio{width:100%}.meta{font-size:13px;margin-top:16px}</style></head>
 <body><div class="card"><h1>🧼 Wash: A Meta-Analysis</h1>
 <p>Steve Jobs × Bill Gates debate the best way to wash fruits and vegetables. Water minimalism vs 47 studies. Baking soda, HOCl, the PurePod, and why commercial veggie wash is theater. Real science, zero dignity.</p>
 <img src="ceos_web.png" alt="Jobs x Gates debate produce washing" style="width:100%;border-radius:14px;margin:0 0 18px">
-<audio controls preload="metadata" src="episode.mp3"></audio>
+<audio id="au" controls preload="metadata" src="episode.mp3"></audio>
 <img src="infographic_web.png" alt="Washing methods meta-analysis infographic" style="width:100%;border-radius:14px;margin:20px 0 4px">
 
 <h2 style="font-size:20px;margin:26px 0 10px">The actual takeaways</h2>
@@ -81,7 +81,7 @@ pick("water");
 
 <h2 style="font-size:20px;margin:26px 0 10px">Full transcript</h2>
 <details style="background:var(--panel2);border:1px solid #232c42;border-radius:12px;padding:12px 16px">
-<summary style="cursor:pointer;color:#7c8cff;font-size:14.5px">Read the full 7:55 transcript (auto-generated, error-corrected)</summary>
+<summary style="cursor:pointer;color:#7c8cff;font-size:14.5px">Read the full 7:55 transcript — follows the audio; click any line to jump there</summary>
 <div id="tx" style="margin-top:12px;font-size:14px;line-height:1.75;color:#c8d0e0"></div>
 </details>
 <script>
@@ -293,10 +293,22 @@ var TX=[
 ["00:07:51","And dry it great."],
 ["00:07:53","The towel is doing God\'s work."]
 ];
-var tx=document.getElementById("tx");
+var tx=document.getElementById("tx"),au=document.getElementById("au"),lines=[];
+function t2s(t){var p=t.split(":");return +p[0]*60+ +p[1];}
 TX.forEach(function(l){
- var d=document.createElement("div");d.style.margin="0 0 6px";
+ var d=document.createElement("div");d.style.margin="0 0 6px";d.style.cursor="pointer";d.dataset.t=t2s(l[0]);
  d.innerHTML='<span style="color:#5b6780;font-size:12px;font-variant-numeric:tabular-nums">'+l[0]+'</span> '+l[1];
- tx.appendChild(d);});
+ d.onclick=function(){au.currentTime=this.dataset.t;au.play();};
+ tx.appendChild(d);lines.push(d);});
+au.addEventListener("timeupdate",function(){
+ var t=au.currentTime,cur=-1;
+ for(var i=0;i<lines.length;i++){if(lines[i].dataset.t<=t)cur=i;else break;}
+ lines.forEach(function(d,i){
+  if(i===cur){d.style.color="#e8ecf5";d.style.background="#1a2133";d.style.borderRadius="6px";d.style.padding="2px 6px";d.style.margin="0 0 6px -6px";}
+  else{d.style.color="";d.style.background="";d.style.padding="";d.style.margin="0 0 6px";}
+ });
+ var cd=lines[Math.max(cur,0)];
+ if(cur>=0&&cd&&cd.scrollIntoView)cd.scrollIntoView({block:"nearest"});
+});
 </script>
 <p class="meta">7:55 · VoxCPM2 voice clones · Jobs &amp; Gates refs · produced by Jerbotclaw</p></div></body></html>
