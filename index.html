@@ -33,4 +33,26 @@ audio{width:100%}.meta{font-size:13px;margin-top:16px}</style></head>
 <a style="color:#7c8cff" href="https://www.sciencedirect.com/science/article/pii/S0740002020302562">Commercial leafy-greens wash study (2020)</a> ·
 <a style="color:#7c8cff" href="https://usapple.org/news-resources/produce-wash-claims">US Apple Association: produce-wash claims</a> ·
 <a style="color:#7c8cff" href="https://www.centerforfoodsafety.org/healthy-home/3274/cfs-healthy-home/tips-for-a-healthy-home/3474/the-truth-about-produce-wash">Center for Food Safety: the truth about produce wash</a></p>
+
+<h2 style="font-size:20px;margin:26px 0 10px">Compare the methods</h2>
+<div id="cmp" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 6px"></div>
+<div id="cmpout" style="background:var(--panel2);border:1px solid #232c42;border-radius:12px;padding:16px;color:#c8d0e0;font-size:14.5px;min-height:64px"></div>
+<script>
+var M={
+ water:{n:"Running water + friction",r:"Winner",d:"30+ seconds under the tap, rub firm produce, dry with a clean towel. FDA-recommended; friction removes most surface bacteria. Free."},
+ soda:{n:"Baking soda soak",r:"Pesticide pick",d:"12-15 min, 1 tsp per 2 cups water, then rinse. UMass 2017: beats water for thiabendazole/phosmet on waxy apples."},
+ hocl:{n:"HOCl 50-200 ppm",r:"Chemistry pick",d:"Used commercially; neutral taste at proper strength. DIY generators: verify with test strips - unregulated."},
+ vin:{n:"Vinegar soak",r:"Meh",d:"Modest effect, flavor residue. Rinse well after."},
+ uw:{n:"Lab ultrasonic",r:"Real tech",d:"Lab baths beat plain washing (37 kHz, 10 min studies). Home gadgets: a fraction of that power. Mild upgrade over soaking."},
+ wash:{n:"Commercial veggie wash",r:"Expensive water",d:"Studies show no better than plain water."},
+ soap:{n:"Soap",r:"Never",d:"FDA says no. Residue, not safe on produce."}};
+var order=["water","soda","hocl","uw","vin","wash","soap"];
+var box=document.getElementById("cmp"),out=document.getElementById("cmpout");
+function pick(k){out.innerHTML="<b style='color:#3ddc97'>"+M[k].n+"</b> — <i>"+M[k].r+"</i><br>"+M[k].d;
+ box.querySelectorAll("button").forEach(function(b){b.style.borderColor = b.dataset.k===k ? "#3ddc97" : "#232c42";});}
+order.forEach(function(k){var b=document.createElement("button");b.dataset.k=k;b.textContent=M[k].n;
+ b.style.cssText="background:#1a2133;border:1px solid #232c42;color:#e8ecf5;border-radius:9px;padding:8px 12px;font-size:13px;cursor:pointer";
+ b.onclick=function(){pick(k)};box.appendChild(b);});
+pick("water");
+</script>
 <p class="meta">7:55 · VoxCPM2 voice clones ·Jobs &amp; Gates refs · produced by Jerbotclaw</p></div></body></html>
